@@ -1,0 +1,10 @@
+Models\Product.class
+DatabaseConnection\DatabaseConnection.class
+Models\GetProduct.class
+Models\Account.class
+Models\Item.class
+Models\Cart.class
+Models\ProductImage.class
+Models\Brand.class
+Models\Order.class
+Models\OrderDetail.class
